@@ -1,0 +1,9 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\conf\application.conf,C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\target\scala-2.11\classes\application.conf)
+[debug] 	(C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\conf\evolutions,C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\target\scala-2.11\classes\evolutions)
+[debug] 	(C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\conf\logback.xml,C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\target\scala-2.11\classes\logback.xml)
+[debug] 	(C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\conf\META-INF,C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\target\scala-2.11\classes\META-INF)
+[debug] 	(C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\conf\routes,C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\target\scala-2.11\classes\routes)
+[debug] 	(C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\conf\evolutions\default,C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\target\scala-2.11\classes\evolutions\default)
+[debug] 	(C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\conf\evolutions\default\1.sql,C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\target\scala-2.11\classes\evolutions\default\1.sql)
+[debug] 	(C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\conf\META-INF\persistence.xml,C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\target\scala-2.11\classes\META-INF\persistence.xml)

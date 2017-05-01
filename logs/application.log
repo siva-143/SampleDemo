@@ -1,0 +1,80 @@
+2017-05-01 15:04:29,202 [INFO] from application in ForkJoinPool-1-worker-1 - Creating Pool for datasource 'default'
+2017-05-01 15:04:32,589 [INFO] from play.api.db.HikariCPConnectionPool in ForkJoinPool-1-worker-1 - datasource [default] bound to JNDI as DefaultDS
+2017-05-01 15:04:32,608 [INFO] from play.api.db.DefaultDBApi in ForkJoinPool-1-worker-1 - Database [default] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 15:04:32,608 [INFO] from application in ForkJoinPool-1-worker-1 - Creating Pool for datasource 'db'
+2017-05-01 15:04:32,634 [INFO] from play.api.db.DefaultDBApi in ForkJoinPool-1-worker-1 - Database [db] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 15:04:33,834 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
+2017-05-01 15:12:35,178 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
+2017-05-01 15:12:35,192 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
+2017-05-01 15:12:35,436 [INFO] from application in application-akka.actor.default-dispatcher-6 - Creating Pool for datasource 'default'
+2017-05-01 15:12:35,450 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.default-dispatcher-6 - datasource [default] bound to JNDI as DefaultDS
+2017-05-01 15:12:35,457 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-6 - Database [default] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 15:12:35,457 [INFO] from application in application-akka.actor.default-dispatcher-6 - Creating Pool for datasource 'db'
+2017-05-01 15:12:35,473 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-6 - Database [db] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 15:12:35,893 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-6 - Application started (Dev)
+2017-05-01 15:14:43,369 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
+2017-05-01 15:14:43,372 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
+2017-05-01 15:14:43,528 [INFO] from application in application-akka.actor.default-dispatcher-6 - Creating Pool for datasource 'default'
+2017-05-01 15:14:43,536 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.default-dispatcher-6 - datasource [default] bound to JNDI as DefaultDS
+2017-05-01 15:14:43,545 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-6 - Database [default] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 15:14:43,545 [INFO] from application in application-akka.actor.default-dispatcher-6 - Creating Pool for datasource 'db'
+2017-05-01 15:14:43,559 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-6 - Database [db] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 15:14:43,898 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-6 - Application started (Dev)
+2017-05-01 16:18:24,804 [INFO] from application in application-akka.actor.default-dispatcher-2 - Shutting down connection pool.
+2017-05-01 16:18:24,811 [INFO] from application in application-akka.actor.default-dispatcher-2 - Shutting down connection pool.
+2017-05-01 16:18:25,804 [INFO] from application in application-akka.actor.default-dispatcher-2 - Creating Pool for datasource 'default'
+2017-05-01 16:18:25,839 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.default-dispatcher-2 - datasource [default] bound to JNDI as DefaultDS
+2017-05-01 16:18:25,848 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-2 - Database [default] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 16:18:25,848 [INFO] from application in application-akka.actor.default-dispatcher-2 - Creating Pool for datasource 'db'
+2017-05-01 16:18:25,867 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-2 - Database [db] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 16:18:27,224 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-2 - Application started (Dev)
+2017-05-01 16:19:35,098 [INFO] from application in application-akka.actor.default-dispatcher-5 - Shutting down connection pool.
+2017-05-01 16:19:35,101 [INFO] from application in application-akka.actor.default-dispatcher-5 - Shutting down connection pool.
+2017-05-01 16:19:35,244 [INFO] from application in application-akka.actor.default-dispatcher-5 - Creating Pool for datasource 'default'
+2017-05-01 16:19:35,253 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.default-dispatcher-5 - datasource [default] bound to JNDI as DefaultDS
+2017-05-01 16:19:35,257 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-5 - Database [default] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 16:19:35,257 [INFO] from application in application-akka.actor.default-dispatcher-5 - Creating Pool for datasource 'db'
+2017-05-01 16:19:35,264 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-5 - Database [db] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 16:19:35,596 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-5 - Application started (Dev)
+2017-05-01 16:20:00,813 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
+2017-05-01 16:20:00,819 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
+2017-05-01 16:20:00,963 [INFO] from application in application-akka.actor.default-dispatcher-6 - Creating Pool for datasource 'default'
+2017-05-01 16:20:00,972 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.default-dispatcher-6 - datasource [default] bound to JNDI as DefaultDS
+2017-05-01 16:20:00,978 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-6 - Database [default] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 16:20:00,978 [INFO] from application in application-akka.actor.default-dispatcher-6 - Creating Pool for datasource 'db'
+2017-05-01 16:20:00,993 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-6 - Database [db] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 16:20:01,283 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-6 - Application started (Dev)
+2017-05-01 18:28:57,162 [WARN] from com.zaxxer.hikari.pool.HikariPool in HikariPool-11 housekeeper - HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=3m24s826ms807µs449ns).
+2017-05-01 18:28:57,177 [WARN] from com.zaxxer.hikari.pool.HikariPool in HikariPool-12 housekeeper - HikariPool-12 - Thread starvation or clock leap detected (housekeeper delta=3m24s826ms435µs84ns).
+2017-05-01 20:13:48,115 [INFO] from application in application-akka.actor.default-dispatcher-9 - Shutting down connection pool.
+2017-05-01 20:13:48,118 [INFO] from application in application-akka.actor.default-dispatcher-9 - Shutting down connection pool.
+2017-05-01 20:13:48,329 [INFO] from application in application-akka.actor.default-dispatcher-9 - Creating Pool for datasource 'default'
+2017-05-01 20:13:48,338 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.default-dispatcher-9 - datasource [default] bound to JNDI as DefaultDS
+2017-05-01 20:13:48,344 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-9 - Database [default] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 20:13:48,344 [INFO] from application in application-akka.actor.default-dispatcher-9 - Creating Pool for datasource 'db'
+2017-05-01 20:13:48,355 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-9 - Database [db] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 20:13:48,751 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-9 - Application started (Dev)
+2017-05-01 20:34:58,581 [INFO] from application in application-akka.actor.default-dispatcher-4 - Shutting down connection pool.
+2017-05-01 20:34:58,584 [INFO] from application in application-akka.actor.default-dispatcher-4 - Shutting down connection pool.
+2017-05-01 20:34:58,737 [INFO] from application in application-akka.actor.default-dispatcher-4 - Creating Pool for datasource 'default'
+2017-05-01 20:34:58,745 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.default-dispatcher-4 - datasource [default] bound to JNDI as DefaultDS
+2017-05-01 20:34:58,752 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-4 - Database [default] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 20:34:58,752 [INFO] from application in application-akka.actor.default-dispatcher-4 - Creating Pool for datasource 'db'
+2017-05-01 20:34:58,761 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-4 - Database [db] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 20:34:59,021 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-4 - Application started (Dev)
+2017-05-01 20:36:23,601 [INFO] from application in application-akka.actor.default-dispatcher-2 - Shutting down connection pool.
+2017-05-01 20:36:23,608 [INFO] from application in application-akka.actor.default-dispatcher-2 - Shutting down connection pool.
+2017-05-01 20:36:23,734 [INFO] from application in application-akka.actor.default-dispatcher-2 - Creating Pool for datasource 'default'
+2017-05-01 20:36:23,758 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.default-dispatcher-2 - datasource [default] bound to JNDI as DefaultDS
+2017-05-01 20:36:23,763 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-2 - Database [default] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 20:36:23,763 [INFO] from application in application-akka.actor.default-dispatcher-2 - Creating Pool for datasource 'db'
+2017-05-01 20:36:23,773 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-2 - Database [db] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 20:36:23,930 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-2 - Application started (Dev)
+2017-05-01 20:36:51,242 [INFO] from application in application-akka.actor.default-dispatcher-7 - Shutting down connection pool.
+2017-05-01 20:36:51,261 [INFO] from application in application-akka.actor.default-dispatcher-7 - Shutting down connection pool.
+2017-05-01 20:36:51,352 [INFO] from application in application-akka.actor.default-dispatcher-7 - Creating Pool for datasource 'default'
+2017-05-01 20:36:51,357 [INFO] from play.api.db.HikariCPConnectionPool in application-akka.actor.default-dispatcher-7 - datasource [default] bound to JNDI as DefaultDS
+2017-05-01 20:36:51,360 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-7 - Database [default] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 20:36:51,360 [INFO] from application in application-akka.actor.default-dispatcher-7 - Creating Pool for datasource 'db'
+2017-05-01 20:36:51,367 [INFO] from play.api.db.DefaultDBApi in application-akka.actor.default-dispatcher-7 - Database [db] connected at jdbc:mysql://localhost:3306/sakila
+2017-05-01 20:36:51,454 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-7 - Application started (Dev)

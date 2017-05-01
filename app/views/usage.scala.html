@@ -1,0 +1,29 @@
+@(list:List[Customers])
+<!doctype html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="shortcut" href="@routes.Assets.versioned("images/imagecloud.png")">
+    </head>
+    <body>
+<div class="w3-container">
+<table class="w3-table-all w3-card-4">
+    @for(li<-list){
+        <tr>
+            <td>@li.getCustomer_id</td>
+            <td>@li.getStore_id</td>
+            <td>@li.getFirst_name</td>
+            <td>@li.getLast_name</td>
+            <td>@li.getEmail</td>
+            <td>@li.getAddress_id</td>
+            <td>@li.getActive</td>
+            <td>@li.getCreate_date</td>
+            <td>@li.getLast_update</td>
+            <td>@li.getClass</td>
+        </tr>
+    }
+</table>
+</div>
+    </body>
+</html>

@@ -1,0 +1,14 @@
+@(message:String)
+<!doctype html>
+<html>
+    <head>
+        <title>@message</title>
+    </head>
+    <body>
+        <marquee>@message</marquee>
+        <marquee direction="up" style="font-size:30px;">@message</marquee>
+        <div>
+            <img src="@routes.Assets.versioned("images/imagecloud.png")">
+        </div>
+    </body>
+</html>

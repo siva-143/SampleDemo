@@ -1,0 +1,25 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# An example controller showing a sample home page
+GET       /user                     controllers.UserController.user()
+GET      /asyn                      controllers.AsynchronousController.index()
+GET        /getresult               controllers.JavaController.getResult()
+GET      /                          controllers.DownloadController.index()
+GET     /download/*name             controllers.DownloadController.download(name)
+GET     /getall                     controllers.CurdDemoController.getAll()
+#GET     /operate                     controllers.JpaController.operate()
+GET     /demo/:message              controllers.DemoController.demo(message)
+#GET     /cust                       controllers.CustomerController.custDetails
+GET     /person                     controllers.PersonController.person
+POST     /addperson                 controllers.PersonController.addPerson
+GET     /dup                        controllers.DemoController.demoDup
+GET     /util                       controllers.UtitlityController.util()
+GET     /util:name                  controllers.UtitlityController.serviceUtil(name)
+#GET     /home                      controllers.HomeController.home()
+POST    /submit                     controllers.Application.submit()
+GET      /conn                      controllers.JdbcController.conn()
+#GET      /getlist                   controllers.JdbcController.findall()
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)

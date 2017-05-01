@@ -1,0 +1,10 @@
+@(userForm:Form[User])
+@import helper._;
+@main("Example"){
+    <h1>A simple Form</h1>
+    <form action="@routes.Application.submit()" method="post">
+    @helper.inputText(userForm("username"))
+    @helper.inputPassword(userForm("password"))
+    <input type="submit" class="btn btn-primary" value="submit">
+    </form>
+}

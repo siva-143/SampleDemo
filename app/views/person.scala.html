@@ -1,0 +1,13 @@
+@(person:String)
+<!doctype html>
+    <html>
+        <head>
+            <title>@person</title>
+        </head>
+        <body>
+            <form action="@routes.PersonController.addPerson()" method="post">
+                <span style="font-weight:bold;color:steelblue;font-size:30px;">AddPerson Name:</span><input type="text" name="person">
+                <input type="submit" name="but" value="AddPerson">
+            </form>
+        </body>
+    </html>

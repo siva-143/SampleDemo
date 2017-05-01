@@ -1,0 +1,4 @@
+[error] C:\Users\CGLenovo01\Downloads\play-java\play-java-final-demo\app\views\login.scala.html:7: Invalid '@' symbol
+[error]             <form action="@" method="post">
+[error]                           ^
+[error] (compile:twirlCompileTemplates) Twirl compilation failed
